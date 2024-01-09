@@ -1,8 +1,8 @@
 <img src="./assets/git-hub-banner.png" alt="Banner" />
 
-     - Seja bem-vindo(a) ao meu perfil do GitHub. Comecei a me interessar por programação por meio de eventos online, mais ou menos no início de 2023, e venho aprendendo sobre programação desde então. No momento, estou estudando, desenvolvendo alguns projetos e aprimorando minhas habilidades a cada dia. Tenho como objetivo ingressar na área e seguir aprimorando meus conhecimentos.
+- Seja bem-vindo(a) ao meu perfil do GitHub. Comecei a me interessar por programação por meio de eventos online, mais ou menos no início de 2023, e venho aprendendo sobre programação desde então. No momento, estou estudando, desenvolvendo alguns projetos e aprimorando minhas habilidades a cada dia. Tenho como objetivo ingressar na área e seguir aprimorando meus conhecimentos.
 
-## My skills :
+### My skills :
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5 Badge" />
@@ -15,13 +15,13 @@
 <img src="./assets/computer-illustration.png" alt="Computer Illustration" width='300' />
 </div>
 
-## Studying in this moment :
+### Studying in this moment :
 
 <div align="center">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=black" alt="Redux Badge" />
 </div>
 
-### Contacts :
+#### Contacts :
 
 <div align="center">
 
