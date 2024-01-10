@@ -2,7 +2,6 @@
 
 - Seja bem-vindo(a) ao meu perfil do GitHub. Comecei a me interessar por programação por meio de eventos online, mais ou menos no início de 2023, e venho aprendendo sobre programação desde então. No momento, estou estudando, desenvolvendo alguns projetos e aprimorando minhas habilidades a cada dia. Tenho como objetivo ingressar na área e seguir aprimorando meus conhecimentos.
 
-
 ### 🛠️ My skills :
 
 <div align="center">
@@ -20,6 +19,8 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=black" alt="Redux Badge" />
+  
+<img src="./assets/abstrato-azul-redemoinho.png" width="100%" height="120" alt="Computer Illustration" />
 </div>
 
 ### 📒 Contacts :
@@ -34,5 +35,4 @@
 
 ``` "The greatest investment you'll ever make is investing in you." ```
 
-<img src="./assets/abstrato-azul-redemoinho.png" height="200" alt="Computer Illustration" />
 </div>
